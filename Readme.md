@@ -25,7 +25,7 @@ Users should be able to:
 ### Link
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-box-_KO3ag2Vfg](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://vikashkumar3210.github.io/card--component/](https://your-live-site-url.com)
 
 
 ### Built with
